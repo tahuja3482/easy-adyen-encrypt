@@ -1,0 +1,15 @@
+{
+  "name": "easy-adyen-encrypt",
+  "version": "1.0.0",
+  "description": "Encrypt your card info with Adyen in one function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-adyen-encrypt": "^2.3.1"
+  },
+  "devDependencies": {}
+}
