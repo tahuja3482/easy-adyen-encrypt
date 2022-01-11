@@ -2,6 +2,7 @@ module.exports = {
     encryptCard (adyenVersion, adyenkey, cardNumber, cardMonth, cardYear, cardCVV) {
         const adyenEncrypt = require("node-adyen-encrypt")(adyenVersion);
         const adyenKey = adyenkey;
+        const options = {};
         const cardData = {
           number: cardNumber,
           generationtime: new Date().toISOString(),

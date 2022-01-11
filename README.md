@@ -13,7 +13,7 @@ var encryptedCard = easyAdyen.encryptCard(version, key, card, month, year, cvv)
 console.log(encryptedCard)
 ```
 Returns an `encryptedCard` object
-```json
+```
 {
    cardNumber:"encryptedCardNumber",
    cardMonth: "encryptedCardMonth",
