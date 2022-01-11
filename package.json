@@ -14,10 +14,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tahuja3482/easy-adyen-encryption.git"
+    "url": "git+https://github.com/tahuja3482/easy-adyen-encrypt.git"
   },
   "bugs": {
-    "url": "https://github.com/tahuja3482/easy-adyen-encryption/issues"
+    "url": "https://github.com/tahuja3482/easy-adyen-encrypt/issues"
   },
-  "homepage": "https://github.com/tahuja3482/easy-adyen-encryption#readme"
+  "homepage": "https://github.com/tahuja3482/easy-adyen-encrypt#readme"
 }
